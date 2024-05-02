@@ -1,3 +1,8 @@
 This is an initial text file created for Github training.
 
 Here is conclusion #1
+
+Figure I would add some bullet points: 
+* here is one
+* here is another
+    * and this one is indented
