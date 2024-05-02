@@ -1,1 +1,3 @@
 This is an initial text file created for Github training.
+
+Here is conclusion #1
